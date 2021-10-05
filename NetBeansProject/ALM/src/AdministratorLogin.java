@@ -37,8 +37,8 @@ public class AdministratorLogin extends javax.swing.JFrame {
 
         jButton_details1.setText("OK");
         jButton_details1.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton1ActionPerformed(evt);
+            public void actionPerformed(java.awt.event.ActionEvent event) {
+                jButton1ActionPerformed(event);
             }
         });
 
